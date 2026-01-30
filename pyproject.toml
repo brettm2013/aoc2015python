@@ -1,0 +1,6 @@
+[project]
+name = "aoc2015"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["aoc"]

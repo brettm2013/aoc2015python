@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+aoc/__init__.py
+aoc/core.py
+aoc/runner.py
+aoc2015.egg-info/PKG-INFO
+aoc2015.egg-info/SOURCES.txt
+aoc2015.egg-info/dependency_links.txt
+aoc2015.egg-info/top_level.txt
+tests/test_day01.py
