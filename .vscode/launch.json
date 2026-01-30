@@ -11,7 +11,7 @@
             "type": "debugpy",
             "request": "launch",
             "module": "aoc.runner",
-            "args": ["7"], 
+            "args": ["8"], 
             "cwd": "${workspaceFolder}",
             "justMyCode": true
         }
